@@ -2,7 +2,7 @@
 The common Set-up of the CNN :
 in order to implement CNNs, most successful architecture uses one or more stacks of convolution + pool layers with relu activation, followed by aflatten layer then one or two dense layers.
 
-<img src="https://cv-tricks.com/wp-content/uploads/2017/05/vgg16.png"  />
+<img src="https://cv-tricks.com/wp-content/uploads/2017/05/vgg16.png" title ="Vgg 16 architecture" />
 
 <br/>
 Convolutional Neural Network (CNN) is a class of deep neural network (DNN) wich is widely used for computer vision or NLP. During the training process, the network's building blocks are repeatedly altered in order for the network to reach optimal performance and to classify images and objects as accurately as possible. 
